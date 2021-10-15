@@ -146,7 +146,7 @@ Like My Work?
 <br/>
 
 <p align="center">
-    <a href="https://github.com/r-kjha">
+    <a href="https://github.com/Sakshyam6966">
         <img title="🔥 My Github Streaks" alt="My Github Streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=r-kjha&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
@@ -154,7 +154,7 @@ Like My Work?
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/r-kjha"><img alt="RKJha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=R-kjha&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/r-kjha"><img alt="NotSaksh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=R-kjha&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/r-kjha"><img alt="RKJha's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-kjha&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -177,20 +177,4 @@ Like My Work?
 
 <a href="https://www.paypal.me/iamrkjha" target="_blank"><img src="https://i.imgur.com/uq3cgfc.png" alt="Paypal Donation" style="width: 217px !important;" ></a> 
 
-
-## Connect with me:
-<p align="left">
-
-<a href = "mailto:sayhi@rkjha.com.np"><img src="https://img.icons8.com/nolan/64/email.png"/></a>
-<a href = "https://dsc.gg/rkjha"><img src="https://img.icons8.com/nolan/64/discord-logo.png"/></a>
-<a href = "https://rkjha.com.np"><img src="https://img.icons8.com/external-kiranshastry-gradient-kiranshastry/64/000000/external-website-multimedia-kiranshastry-gradient-kiranshastry.png"/></a>
-    
-
 </p>
-
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=r-kjha">
-</a>
-<a href="https://github.com/r-kjha?tab=followers"><img src="https://img.shields.io/github/followers/r-kjha?label=Followers&style=social" alt="GitHub Badge"></a>
-
